@@ -14,6 +14,6 @@ class Book
 
 end
 
-book1 = Book.new("And Then There Were None", "Agatha Christie", 272, "Mystery")
+# book1 = Book.new("And Then There Were None", "Agatha Christie", 272, "Mystery")
 
 # p book1.turn_page
