@@ -16,4 +16,4 @@ end
 
 book1 = Book.new("And Then There Were None", "Agatha Christie", 272, "Mystery")
 
-p book1.title
+p turn_page
